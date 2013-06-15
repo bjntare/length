@@ -14,5 +14,13 @@ public class Millimeter_Test {
         assertThat(millimeter1,is("6mm"));
     }
 
+    @Test
+    public void converts_centimeters_to_meters(){
+        Millimeter millimeter = new Millimeter(10);
+        Centimeter centimeter = new Centimeter(1);
+        String millimeter_value_cm = millimeter.toCentimeter();
+        assertThat(millimeter_value_cm.equals(centimeter.theCentimeter()),is(true));
+    }
+
 
 }

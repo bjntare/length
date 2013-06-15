@@ -29,4 +29,14 @@ public class Meter_Test {
         String meter_value_mm = meter.toMillimeter();
         assertThat(meter_value_mm.equals(meter.theMeter()), is(true));
     }
+
+    @Test
+    public void add_meter_lengths(){
+        Meter meter_to_add = new Meter(1);
+        Meter meter_to_add1 = new Meter(4);
+        Meter meter;
+        int sum_meter = meter.sum(1,4);
+        assertThat(sum_meter.,is(4) );
+
+    }
 }

@@ -19,4 +19,7 @@ public class Millimeter {
         return millimeter+"mm";
     }
 
+    public String toCentimeter() {
+        return (millimeter/10)+"cm";
+    }
 }
