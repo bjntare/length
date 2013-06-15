@@ -19,7 +19,13 @@ public class Centimeter_Test {
         Meter meter = new Meter(1);
         String centimeter_value = centimeter.toMeter();
         assertThat(centimeter_value.equals(meter.theMeter()),is(true));
-
     }
 
+    @Test
+    public void converts_centimeters_millimeters(){
+        Centimeter centimeter = new Centimeter(1);
+        Millimeter millimeter = new Millimeter(10);
+        String centimeter_value_mm = centimeter.toMillimeter();
+        assertThat(centimeter_value_mm.equals(millimeter.theMillimeter()),is(true));
+    }
 }

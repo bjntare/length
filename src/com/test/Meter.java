@@ -18,4 +18,9 @@ public class Meter {
     }
 
 
+    public String toMillimeter() {
+        return (meter*1000)+"mm";
+    }
+
+
 }

@@ -4,12 +4,12 @@
     <list default="true" id="b10dde9f-659a-4717-8b4d-24971288d8c7" name="Default" comment="" />
     <ignored path="length.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Meter_Test.java" changelist="b10dde9f-659a-4717-8b4d-24971288d8c7" time="1371275078551" ignored="false" />
+    <file path="/Meter_Test.java" changelist="b10dde9f-659a-4717-8b4d-24971288d8c7" time="1371277934583" ignored="false" />
     <file path="/fragment.java" changelist="b10dde9f-659a-4717-8b4d-24971288d8c7" time="1371272298826" ignored="false" />
-    <file path="/Meter.java" changelist="b10dde9f-659a-4717-8b4d-24971288d8c7" time="1371277250710" ignored="false" />
+    <file path="/Meter.java" changelist="b10dde9f-659a-4717-8b4d-24971288d8c7" time="1371278321219" ignored="false" />
     <file path="/.gitignore" changelist="b10dde9f-659a-4717-8b4d-24971288d8c7" time="1371270462789" ignored="false" />
-    <file path="/Centimeter_Test.java" changelist="b10dde9f-659a-4717-8b4d-24971288d8c7" time="1371275467721" ignored="false" />
-    <file path="/Centimeter.java" changelist="b10dde9f-659a-4717-8b4d-24971288d8c7" time="1371277329846" ignored="false" />
+    <file path="/Centimeter_Test.java" changelist="b10dde9f-659a-4717-8b4d-24971288d8c7" time="1371280221618" ignored="false" />
+    <file path="/Centimeter.java" changelist="b10dde9f-659a-4717-8b4d-24971288d8c7" time="1371280201067" ignored="false" />
     <file path="/Millimeter.java" changelist="b10dde9f-659a-4717-8b4d-24971288d8c7" time="1371275985803" ignored="false" />
     <file path="/Millimeter_Test.java" changelist="b10dde9f-659a-4717-8b4d-24971288d8c7" time="1371277507842" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,7 +75,7 @@
       <file leaf-file-name="Meter_Test.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/com/test/Meter_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="49" selection-start="622" selection-end="622" vertical-scroll-proportion="0.0">
+            <state line="21" column="96" selection-start="612" selection-end="612" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,10 +83,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Centimeter_Test.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Centimeter_Test.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/com/test/Centimeter_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="48" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0">
+            <state line="28" column="72" selection-start="964" selection-end="964" vertical-scroll-proportion="0.91735536">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,10 +94,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Millimeter_Test.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Millimeter_Test.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/com/test/Millimeter_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.661157">
+            <state line="8" column="93" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,7 +117,7 @@
       <file leaf-file-name="Centimeter.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/test/Centimeter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="21" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
+            <state line="18" column="29" selection-start="378" selection-end="378" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -126,7 +126,7 @@
       <file leaf-file-name="Meter.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/test/Meter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0">
+            <state line="24" column="0" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -144,12 +144,12 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/test/com/test/Millimeter.java" />
-        <option value="$PROJECT_DIR$/test/com/test/Meter_Test.java" />
-        <option value="$PROJECT_DIR$/test/com/test/Centimeter_Test.java" />
-        <option value="$PROJECT_DIR$/src/com/test/Meter.java" />
-        <option value="$PROJECT_DIR$/src/com/test/Centimeter.java" />
         <option value="$PROJECT_DIR$/src/com/test/Millimeter.java" />
         <option value="$PROJECT_DIR$/test/com/test/Millimeter_Test.java" />
+        <option value="$PROJECT_DIR$/src/com/test/Meter.java" />
+        <option value="$PROJECT_DIR$/test/com/test/Meter_Test.java" />
+        <option value="$PROJECT_DIR$/src/com/test/Centimeter.java" />
+        <option value="$PROJECT_DIR$/test/com/test/Centimeter_Test.java" />
       </list>
     </option>
   </component>
@@ -243,29 +243,7 @@
       <recent name="com.test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Centimeter_Test.converts_centimeters_meters">
-    <configuration default="false" name="Centimeter_Test" type="JUnit" factoryName="JUnit" temporary="true">
-      <module name="length" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.test" />
-      <option name="MAIN_CLASS_NAME" value="com.test.Centimeter_Test" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.Centimeter_Test.converts_centimeters_millimeters">
     <configuration default="false" name="Meter_Test.converts_meters_to_centimeter" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="length" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -273,28 +251,6 @@
       <option name="PACKAGE_NAME" value="com.test" />
       <option name="MAIN_CLASS_NAME" value="com.test.Meter_Test" />
       <option name="METHOD_NAME" value="converts_meters_to_centimeter" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Millimeter_Test.converts_meters_to_millimeters" type="JUnit" factoryName="JUnit" temporary="true">
-      <module name="length" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.test" />
-      <option name="MAIN_CLASS_NAME" value="com.test.Millimeter_Test" />
-      <option name="METHOD_NAME" value="converts_meters_to_millimeters" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -339,6 +295,50 @@
       <option name="PACKAGE_NAME" value="com.test" />
       <option name="MAIN_CLASS_NAME" value="com.test.Centimeter_Test" />
       <option name="METHOD_NAME" value="converts_centimeters_meters" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Meter_Test.converts_meters_to_millimeter" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="length" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.Meter_Test" />
+      <option name="METHOD_NAME" value="converts_meters_to_millimeter" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Centimeter_Test.converts_centimeters_millimeters" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="length" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.Centimeter_Test" />
+      <option name="METHOD_NAME" value="converts_centimeters_millimeters" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -443,19 +443,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.Centimeter_Test" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.Meter_Test.converts_meters_to_centimeter" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.Millimeter_Test.converts_meters_to_millimeters" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.Meter_Test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.Centimeter_Test.converts_centimeters_meters" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.Meter_Test.converts_meters_to_centimeter" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.Meter_Test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Centimeter_Test.converts_centimeters_meters" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Meter_Test.converts_meters_to_millimeter" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Centimeter_Test.converts_centimeters_millimeters" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.Centimeter_Test.converts_centimeters_meters" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Meter_Test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.Millimeter_Test.converts_meters_to_millimeters" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.Meter_Test.converts_meters_to_centimeter" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.Centimeter_Test" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Centimeter_Test.converts_centimeters_millimeters" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Meter_Test.converts_meters_to_centimeter" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Meter_Test.converts_meters_to_millimeter" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Centimeter_Test.converts_centimeters_meters" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Meter_Test" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -570,16 +570,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/test/Millimeter_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="93" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/test/Meter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0">
+        <state line="24" column="0" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/test/Centimeter_Test.java">
+    <entry file="file://$PROJECT_DIR$/test/com/test/Meter_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="48" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0">
+        <state line="21" column="96" selection-start="612" selection-end="612" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -588,17 +597,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/test/Centimeter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="21" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
+        <state line="18" column="29" selection-start="378" selection-end="378" vertical-scroll-proportion="0.0">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/test/Meter_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="49" selection-start="622" selection-end="622" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -609,9 +609,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/test/Millimeter_Test.java">
+    <entry file="file://$PROJECT_DIR$/test/com/test/Centimeter_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.661157">
+        <state line="28" column="72" selection-start="964" selection-end="964" vertical-scroll-proportion="0.91735536">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

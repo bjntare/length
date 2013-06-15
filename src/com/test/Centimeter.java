@@ -14,4 +14,8 @@ public class Centimeter {
     public String toMeter() {
         return (centimeter/100)+"m";
     }
+
+    public String toMillimeter() {
+        return (centimeter*10)+"mm";
+    }
 }

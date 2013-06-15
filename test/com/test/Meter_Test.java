@@ -22,4 +22,11 @@ public class Meter_Test {
         assertThat(meter_value.equals(centimeter.theCentimeter()), is(true));
     }
 
+    @Test
+    public void converts_meters_to_millimeter(){
+        Meter meter = new Meter(1);
+        Millimeter millimeter = new Millimeter(1000);
+        String meter_value_mm = meter.toMillimeter();
+        assertThat(meter_value_mm.equals(meter.theMeter()), is(true));
+    }
 }
