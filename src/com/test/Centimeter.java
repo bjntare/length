@@ -10,4 +10,8 @@ public class Centimeter {
     public String theCentimeter() {
         return centimeter+"cm";
     }
+
+    public String toMeter() {
+        return (centimeter/100)+"m";
+    }
 }

@@ -12,4 +12,10 @@ public class Meter {
     public String theMeter() {
         return meter+"m";
     }
+
+    public String toCentimeter() {
+        return (meter*100)+"cm";
+    }
+
+
 }
