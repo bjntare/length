@@ -30,7 +30,28 @@ public class Meter {
     }
 
 
-    public int sum(int meter1, int meter2) {
+    public static int sum(int meter1, int meter2) {
         return meter1+meter2;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+
+        Meter meter1 = (Meter) o;
+
+        if (meter != meter1.meter) return false;
+
+        return true;
+    }
+
+    @Override
+    public int hashCode() {
+        return meter;
+    }
+
+    public int subtract(int meter1, int meter2) {
+        return meter1-meter2;
     }
 }

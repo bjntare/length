@@ -32,11 +32,16 @@ public class Meter_Test {
 
     @Test
     public void add_meter_lengths(){
-        Meter meter_to_add = new Meter(1);
-        Meter meter_to_add1 = new Meter(4);
-        Meter meter;
+        Meter meter =  new Meter(2,3);
         int sum_meter = meter.sum(1,4);
-        assertThat(sum_meter.,is(4) );
+        assertThat(sum_meter,is(5) );
+    }
+
+    @Test
+    public void subtract_meter_length(){
+        Meter meter_diff = new Meter(Meter.sum(1,4),1);
+        int diff_in_meter = meter_diff.subtract(5,1);
+        assertThat(diff_in_meter,is(4));
 
     }
 }
